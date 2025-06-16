@@ -13,6 +13,7 @@ class Solution {
                 if(arr[k]>arr[j]) swap(arr[j],arr[k]);
                 k++;
             }
+            
         }
     }
 };
