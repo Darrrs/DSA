@@ -17,6 +17,9 @@ class Solution {
         if(ceil==INT_MIN) ceil=-1;
         return {ceil,floor};
     }
+
+
+    
 };
 
 //https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1
